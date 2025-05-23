@@ -12,7 +12,7 @@ The project aims to deliver a full-stack blogging platform allowing users to sig
 
 -   **Robust Routing:** Implementing `react-router-dom` for seamless client-side navigation between different sections of the application.
 
--   **Material-UI for Design:** Leveraging `Material-UI` components (AppBar, Buttons, Cards, etc.) for a consistent, professional, and responsive design, complemented by basic `Tailwind CSS` for utility-first styling.
+-   **Material-UI for Design:** Leveraging `Material-UI` components (AppBar, Buttons, Cards, etc.) for a consistent, professional, and responsive design, complemented by basic `Inline CSS` for utility-first styling.
 
 -   **Effective State Management:** Utilizing React's `Context API` (`AuthContext`) for global state management, particularly for user authentication status.
 
@@ -53,8 +53,6 @@ The project aims to deliver a full-stack blogging platform allowing users to sig
 -   **React Hook Form**: For robust and efficient form management (signup, login, write post).
 
 -   **CKEditor 5 React & Classic Build**: Integrated rich text editor for post content.
-
--   **Tailwind CSS**: Utility-first CSS framework for rapid and responsive styling.
 
 -   **Material-UI (`@mui/material`)**: React UI library providing pre-built components (AppBar, Buttons, Cards, Icons, etc.) for a sleek design.
 
